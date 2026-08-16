@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 3 |
+| 8 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [strings](#strings) (4)
 
 ---
@@ -28,6 +28,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
