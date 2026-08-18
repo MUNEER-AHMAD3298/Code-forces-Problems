@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 4 |
+| 10 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (1)
 - [strings](#strings) (4)
 
@@ -36,6 +36,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 
 ### math
