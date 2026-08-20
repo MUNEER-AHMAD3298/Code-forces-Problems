@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 5 |
+| 12 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (2)
 - [strings](#strings) (4)
 
@@ -46,6 +46,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
+| 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1722/A%20-%20Spell%20Check/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 
 ### math
