@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 7 |
+| 16 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (3)
 - [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
@@ -27,6 +28,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
 
@@ -60,6 +67,7 @@
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1722/A%20-%20Spell%20Check/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### math
 
