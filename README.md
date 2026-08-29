@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 10 |
+| 22 | 10 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -74,6 +74,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/MUNEER-AHMAD3298/Code-forces-Problems/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 
 ### math
